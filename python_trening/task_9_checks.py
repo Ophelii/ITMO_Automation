@@ -1,10 +1,11 @@
-class Checks:
+from python_trening.task_9_oop_1 import Input
+
+class Checks(Input):
     def __init__(self, loc):
         self.loc = loc
 
     def check_text(self):
         return self.loc
-        from python_trening.task_9_oop_1 import Checks
 
     def __init__(self, loc):
         super().__init__(loc)
