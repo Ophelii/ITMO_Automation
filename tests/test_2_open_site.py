@@ -16,3 +16,4 @@ def test_site_visit():
     assert True
 
 # корневой элемент - <html> (html-тег)
+

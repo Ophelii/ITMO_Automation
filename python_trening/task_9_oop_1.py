@@ -68,6 +68,7 @@ newtitle = Title('Title#newtitle', 'заголовок')
 mylink = Link('Link#mylink', 'ссылка')
 
 
+
 print(search.check_text())
 print(reg.check_text())
 print(newtitle.check_text())

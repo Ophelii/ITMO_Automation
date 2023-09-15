@@ -6,3 +6,4 @@ class Dog(Mammal):
 
 dog = Dog()
 print(dog.className) # Млекопитающее
+

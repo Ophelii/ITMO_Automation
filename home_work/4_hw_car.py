@@ -32,7 +32,6 @@ my_car.set_color("Синий")
 
 
 
-
 # другое решение
 
 class Car:
