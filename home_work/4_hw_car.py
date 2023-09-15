@@ -22,7 +22,6 @@ class Car:
         self.color = color
         print(f"Цвет автомобиля: {my_car.color}")
 
-
 my_car = Car()
 
 my_car.start()
@@ -30,6 +29,7 @@ my_car.stop()
 my_car.set_year(2023)
 my_car.set_type("Седан")
 my_car.set_color("Синий")
+
 
 
 

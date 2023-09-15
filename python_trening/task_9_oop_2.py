@@ -9,3 +9,4 @@ class Page:
 home = Page('http://mylink.com/')
 home.get()
 
+

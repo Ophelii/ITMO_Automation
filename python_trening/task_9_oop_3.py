@@ -14,3 +14,4 @@ drink2 = Soda('сахар')
 
 drink1.show_my_drink()
 drink2.show_my_drink()
+
