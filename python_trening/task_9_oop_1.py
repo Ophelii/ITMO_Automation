@@ -32,7 +32,7 @@ print(newtitle.text)
 class Link:
 
     def __init__(self, loc, text):
-        self.loc = loc
+        self.loc = locGIT MERGE
         self.text = text
 
 mylink = Link('Link#mylink', 'ссылка')
